@@ -1,0 +1,12 @@
+data/
+*.zip
+mlruns/
+mlartifacts/
+*.pt
+*.pkl
+*.h5
+.env
+venv/
+.venv/
+Project/*.parquet
+*.zip
